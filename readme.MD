@@ -13,7 +13,9 @@ _arduino.ino_ is Arduino firmware. It receives serial data (through whatever por
 ## Setting up an Echo
 In order to make all this work, you're going to need to setup your Amazon Echo with a skill to interact with your server. Here are some settings information
 __Skill Type__: Custom Interaction Model
+
 __Name__: Whatever you want to call it.
+
 __Invocation Name__: I used _Oberon_ because it was unique phonically, and I enjoyed commanding a magical King. I'd prefer you not use _Oberon_ or if you do, don't publish a skill using it.
 
 #### Interaction Model
