@@ -1,0 +1,20 @@
+{
+  "name": "echo_led_string",
+  "version": "1.0.0",
+  "description": "A Demo application using an An Amazon Echo, and a computer running a Web server to control An LED strand.",
+  "main": "secure.js",
+  "dependencies": {
+    "serialport": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Amazon",
+    "Echo",
+    "Alexa"
+  ],
+  "author": "Aaron Eiche",
+  "license": "MIT"
+}
