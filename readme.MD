@@ -1,6 +1,6 @@
 # Echo LED Control Demo
 
-This project is a simple demo of controlling an RGB LED strand with an Amazon Echo.
+This project is a simple demo of controlling an WS2811 RGB LED strand with an Amazon Echo.
 
 ## Components
 
@@ -12,6 +12,7 @@ _arduino.ino_ is Arduino firmware. It receives serial data (through whatever por
 
 ## Setting up an Echo
 In order to make all this work, you're going to need to setup your Amazon Echo with a skill to interact with your server. Here are some settings information
+
 __Skill Type__: Custom Interaction Model
 
 __Name__: Whatever you want to call it.
